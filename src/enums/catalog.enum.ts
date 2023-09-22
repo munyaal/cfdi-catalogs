@@ -1,0 +1,15 @@
+export enum CatalogEnum {
+    Exportacion,
+    FormaPago,
+    Impuesto,
+    Meses,
+    MetodoPago,
+    Moneda,
+    ObjetoImp,
+    Periodicidad,
+    RegimenFiscal,
+    TipoDeComprobante,
+    TipoFactor,
+    TipoRelacion,
+    UsoCFDI,
+}
