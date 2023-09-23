@@ -16,7 +16,7 @@
   {
     "key": "02",
     "description": "Cheque nominativo",
-    "banked": "S�",
+    "banked": "Si",
     "transactionNumber": "Opcional",
     "rfcPayerAccount": "Opcional",
     "payerAccount": "Opcional",
@@ -29,8 +29,8 @@
   },
   {
     "key": "03",
-    "description": "Transferencia electr�nica de fondos",
-    "banked": "S�",
+    "description": "Transferencia electrónica de fondos",
+    "banked": "Si",
     "transactionNumber": "Opcional",
     "rfcPayerAccount": "Opcional",
     "payerAccount": "Opcional",
@@ -43,8 +43,8 @@
   },
   {
     "key": "04",
-    "description": "Tarjeta de cr�dito",
-    "banked": "S�",
+    "description": "Tarjeta de crédito",
+    "banked": "Si",
     "transactionNumber": "Opcional",
     "rfcPayerAccount": "Opcional",
     "payerAccount": "Opcional",
@@ -57,8 +57,8 @@
   },
   {
     "key": "05",
-    "description": "Monedero electr�nico",
-    "banked": "S�",
+    "description": "Monedero electrónico",
+    "banked": "Si",
     "transactionNumber": "Opcional",
     "rfcPayerAccount": "Opcional",
     "payerAccount": "Opcional",
@@ -71,8 +71,8 @@
   },
   {
     "key": "06",
-    "description": "Dinero electr�nico",
-    "banked": "S�",
+    "description": "Dinero electrónico",
+    "banked": "Si",
     "transactionNumber": "Opcional",
     "rfcPayerAccount": "Opcional",
     "payerAccount": "Opcional",
@@ -99,7 +99,7 @@
   },
   {
     "key": "12",
-    "description": "Daci�n en pago",
+    "description": "Dación en pago",
     "banked": "No",
     "transactionNumber": "Opcional",
     "rfcPayerAccount": "No",
@@ -113,7 +113,7 @@
   },
   {
     "key": "13",
-    "description": "Pago por subrogaci�n",
+    "description": "Pago por subrogación",
     "banked": "No",
     "transactionNumber": "Opcional",
     "rfcPayerAccount": "No",
@@ -127,7 +127,7 @@
   },
   {
     "key": "14",
-    "description": "Pago por consignaci�n",
+    "description": "Pago por consignación",
     "banked": "No",
     "transactionNumber": "Opcional",
     "rfcPayerAccount": "No",
@@ -141,7 +141,7 @@
   },
   {
     "key": "15",
-    "description": "Condonaci�n",
+    "description": "Condonación",
     "banked": "No",
     "transactionNumber": "Opcional",
     "rfcPayerAccount": "No",
@@ -155,7 +155,7 @@
   },
   {
     "key": "17",
-    "description": "Compensaci�n",
+    "description": "Compensación",
     "banked": "No",
     "transactionNumber": "Opcional",
     "rfcPayerAccount": "No",
@@ -169,7 +169,7 @@
   },
   {
     "key": "23",
-    "description": "Novaci�n",
+    "description": "Novación",
     "banked": "No",
     "transactionNumber": "Opcional",
     "rfcPayerAccount": "No",
@@ -183,7 +183,7 @@
   },
   {
     "key": "24",
-    "description": "Confusi�n",
+    "description": "Confusión",
     "banked": "No",
     "transactionNumber": "Opcional",
     "rfcPayerAccount": "No",
@@ -197,7 +197,7 @@
   },
   {
     "key": "25",
-    "description": "Remisi�n de deuda",
+    "description": "Remisión de deuda",
     "banked": "No",
     "transactionNumber": "Opcional",
     "rfcPayerAccount": "No",
@@ -211,7 +211,7 @@
   },
   {
     "key": "26",
-    "description": "Prescripci�n o caducidad",
+    "description": "Prescripción o caducidad",
     "banked": "No",
     "transactionNumber": "Opcional",
     "rfcPayerAccount": "No",
@@ -225,7 +225,7 @@
   },
   {
     "key": "27",
-    "description": "A satisfacci�n del acreedor",
+    "description": "A satisfacción del acreedor",
     "banked": "No",
     "transactionNumber": "Opcional",
     "rfcPayerAccount": "No",
@@ -239,8 +239,8 @@
   },
   {
     "key": "28",
-    "description": "Tarjeta de d�bito",
-    "banked": "S�",
+    "description": "Tarjeta de débito",
+    "banked": "Si",
     "transactionNumber": "Opcional",
     "rfcPayerAccount": "Opcional",
     "payerAccount": "Opcional",
@@ -254,7 +254,7 @@
   {
     "key": "29",
     "description": "Tarjeta de servicios",
-    "banked": "S�",
+    "banked": "Si",
     "transactionNumber": "Opcional",
     "rfcPayerAccount": "Opcional",
     "payerAccount": "Opcional",
@@ -267,7 +267,7 @@
   },
   {
     "key": "30",
-    "description": "Aplicaci�n de anticipos",
+    "description": "Aplicación de anticipos",
     "banked": "No",
     "transactionNumber": "Opcional",
     "rfcPayerAccount": "No",

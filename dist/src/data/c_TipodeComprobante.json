@@ -1,0 +1,22 @@
+[
+    {
+        "key": "I",
+        "description": "Ingreso"
+    },
+    {
+        "key": "E",
+        "description": "Egreso"
+    },
+    {
+        "key": "T",
+        "description": "Traslado"
+    },
+    {
+        "key": "N",
+        "description": "Nómina"
+    },
+    {
+        "key": "P",
+        "description": "Pago"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "key": "01",
+        "description": "Nota de crédito de los documentos relacionados"
+    },
+    {
+        "key": "02",
+        "description": "Nota de débito de los documentos relacionados"
+    },
+    {
+        "key": "03",
+        "description": "Devolución de mercancía sobre facturas o traslados previos"
+    },
+    {
+        "key": "04",
+        "description": "Sustitución de los CFDI previos"
+    },
+    {
+        "key": "05",
+        "description": "Traslados de mercancías facturados previamente"
+    },
+    {
+        "key": "06",
+        "description": "Factura generada por los traslados previos"
+    },
+    {
+        "key": "07",
+        "description": "CFDI por aplicación de anticipo"
+    }
+]

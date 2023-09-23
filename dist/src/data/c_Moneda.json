@@ -1,0 +1,892 @@
+[
+    {
+        "key": "AED",
+        "description": "Dirham de EAU",
+        "decimals": 2
+    },
+    {
+        "key": "AFN",
+        "description": "Afghani",
+        "decimals": 2
+    },
+    {
+        "key": "ALL",
+        "description": "Lek",
+        "decimals": 2
+    },
+    {
+        "key": "AMD",
+        "description": "Dram armenio",
+        "decimals": 2
+    },
+    {
+        "key": "ANG",
+        "description": "Florín antillano neerlandés",
+        "decimals": 2
+    },
+    {
+        "key": "AOA",
+        "description": "Kwanza",
+        "decimals": 2
+    },
+    {
+        "key": "ARS",
+        "description": "Peso Argentino",
+        "decimals": 2
+    },
+    {
+        "key": "AUD",
+        "description": "Dólar Australiano",
+        "decimals": 2
+    },
+    {
+        "key": "AWG",
+        "description": "Aruba Florin",
+        "decimals": 2
+    },
+    {
+        "key": "AZN",
+        "description": "Azerbaijanian Manat",
+        "decimals": 2
+    },
+    {
+        "key": "BAM",
+        "description": "Convertibles marca",
+        "decimals": 2
+    },
+    {
+        "key": "BBD",
+        "description": "Dólar de Barbados",
+        "decimals": 2
+    },
+    {
+        "key": "BDT",
+        "description": "Taka",
+        "decimals": 2
+    },
+    {
+        "key": "BGN",
+        "description": "Lev búlgaro",
+        "decimals": 2
+    },
+    {
+        "key": "BHD",
+        "description": "Dinar de Bahrein",
+        "decimals": 3
+    },
+    {
+        "key": "BIF",
+        "description": "Burundi Franc",
+        "decimals": 0
+    },
+    {
+        "key": "BMD",
+        "description": "Dólar de Bermudas",
+        "decimals": 2
+    },
+    {
+        "key": "BND",
+        "description": "Dólar de Brunei",
+        "decimals": 2
+    },
+    {
+        "key": "BOB",
+        "description": "Boliviano",
+        "decimals": 2
+    },
+    {
+        "key": "BOV",
+        "description": "Mvdol",
+        "decimals": 2
+    },
+    {
+        "key": "BRL",
+        "description": "Real brasileño",
+        "decimals": 2
+    },
+    {
+        "key": "BSD",
+        "description": "Dólar de las Bahamas",
+        "decimals": 2
+    },
+    {
+        "key": "BTN",
+        "description": "Ngultrum",
+        "decimals": 2
+    },
+    {
+        "key": "BWP",
+        "description": "Pula",
+        "decimals": 2
+    },
+    {
+        "key": "BYR",
+        "description": "Rublo bielorruso",
+        "decimals": 0
+    },
+    {
+        "key": "BZD",
+        "description": "Dólar de Belice",
+        "decimals": 2
+    },
+    {
+        "key": "CAD",
+        "description": "Dólar Canadiense",
+        "decimals": 2
+    },
+    {
+        "key": "CDF",
+        "description": "Franco congoleño",
+        "decimals": 2
+    },
+    {
+        "key": "CHE",
+        "description": "WIR Euro",
+        "decimals": 2
+    },
+    {
+        "key": "CHF",
+        "description": "Franco Suizo",
+        "decimals": 2
+    },
+    {
+        "key": "CHW",
+        "description": "Franc WIR",
+        "decimals": 2
+    },
+    {
+        "key": "CLF",
+        "description": "Unidad de Fomento",
+        "decimals": 4
+    },
+    {
+        "key": "CLP",
+        "description": "Peso chileno",
+        "decimals": 0
+    },
+    {
+        "key": "CNY",
+        "description": "Yuan Renminbi",
+        "decimals": 2
+    },
+    {
+        "key": "COP",
+        "description": "Peso Colombiano",
+        "decimals": 2
+    },
+    {
+        "key": "COU",
+        "description": "Unidad de Valor real",
+        "decimals": 2
+    },
+    {
+        "key": "CRC",
+        "description": "Colón costarricense",
+        "decimals": 2
+    },
+    {
+        "key": "CUC",
+        "description": "Peso Convertible",
+        "decimals": 2
+    },
+    {
+        "key": "CUP",
+        "description": "Peso Cubano",
+        "decimals": 2
+    },
+    {
+        "key": "CVE",
+        "description": "Cabo Verde Escudo",
+        "decimals": 2
+    },
+    {
+        "key": "CZK",
+        "description": "Corona checa",
+        "decimals": 2
+    },
+    {
+        "key": "DJF",
+        "description": "Franco de Djibouti",
+        "decimals": 0
+    },
+    {
+        "key": "DKK",
+        "description": "Corona danesa",
+        "decimals": 2
+    },
+    {
+        "key": "DOP",
+        "description": "Peso Dominicano",
+        "decimals": 2
+    },
+    {
+        "key": "DZD",
+        "description": "Dinar argelino",
+        "decimals": 2
+    },
+    {
+        "key": "EGP",
+        "description": "Libra egipcia",
+        "decimals": 2
+    },
+    {
+        "key": "ERN",
+        "description": "Nakfa",
+        "decimals": 2
+    },
+    {
+        "key": "ETB",
+        "description": "Birr etíope",
+        "decimals": 2
+    },
+    {
+        "key": "EUR",
+        "description": "Euro",
+        "decimals": 2
+    },
+    {
+        "key": "FJD",
+        "description": "Dólar de Fiji",
+        "decimals": 2
+    },
+    {
+        "key": "FKP",
+        "description": "Libra malvinense",
+        "decimals": 2
+    },
+    {
+        "key": "GBP",
+        "description": "Libra Esterlina",
+        "decimals": 2
+    },
+    {
+        "key": "GEL",
+        "description": "Lari",
+        "decimals": 2
+    },
+    {
+        "key": "GHS",
+        "description": "Cedi de Ghana",
+        "decimals": 2
+    },
+    {
+        "key": "GIP",
+        "description": "Libra de Gibraltar",
+        "decimals": 2
+    },
+    {
+        "key": "GMD",
+        "description": "Dalasi",
+        "decimals": 2
+    },
+    {
+        "key": "GNF",
+        "description": "Franco guineano",
+        "decimals": 0
+    },
+    {
+        "key": "GTQ",
+        "description": "Quetzal",
+        "decimals": 2
+    },
+    {
+        "key": "GYD",
+        "description": "Dólar guyanés",
+        "decimals": 2
+    },
+    {
+        "key": "HKD",
+        "description": "Dólar De Hong Kong",
+        "decimals": 2
+    },
+    {
+        "key": "HNL",
+        "description": "Lempira",
+        "decimals": 2
+    },
+    {
+        "key": "HRK",
+        "description": "Kuna",
+        "decimals": 2
+    },
+    {
+        "key": "HTG",
+        "description": "Gourde",
+        "decimals": 2
+    },
+    {
+        "key": "HUF",
+        "description": "Florín",
+        "decimals": 2
+    },
+    {
+        "key": "IDR",
+        "description": "Rupia",
+        "decimals": 2
+    },
+    {
+        "key": "ILS",
+        "description": "Nuevo Shekel Israelí",
+        "decimals": 2
+    },
+    {
+        "key": "INR",
+        "description": "Rupia india",
+        "decimals": 2
+    },
+    {
+        "key": "IQD",
+        "description": "Dinar iraquí",
+        "decimals": 3
+    },
+    {
+        "key": "IRR",
+        "description": "Rial iraní",
+        "decimals": 2
+    },
+    {
+        "key": "ISK",
+        "description": "Corona islandesa",
+        "decimals": 0
+    },
+    {
+        "key": "JMD",
+        "description": "Dólar Jamaiquino",
+        "decimals": 2
+    },
+    {
+        "key": "JOD",
+        "description": "Dinar jordano",
+        "decimals": 3
+    },
+    {
+        "key": "JPY",
+        "description": "Yen",
+        "decimals": 0
+    },
+    {
+        "key": "KES",
+        "description": "Chelín keniano",
+        "decimals": 2
+    },
+    {
+        "key": "KGS",
+        "description": "Som",
+        "decimals": 2
+    },
+    {
+        "key": "KHR",
+        "description": "Riel",
+        "decimals": 2
+    },
+    {
+        "key": "KMF",
+        "description": "Franco Comoro",
+        "decimals": 0
+    },
+    {
+        "key": "KPW",
+        "description": "Corea del Norte ganó",
+        "decimals": 2
+    },
+    {
+        "key": "KRW",
+        "description": "Won",
+        "decimals": 0
+    },
+    {
+        "key": "KWD",
+        "description": "Dinar kuwaití",
+        "decimals": 3
+    },
+    {
+        "key": "KYD",
+        "description": "Dólar de las Islas Caimán",
+        "decimals": 2
+    },
+    {
+        "key": "KZT",
+        "description": "Tenge",
+        "decimals": 2
+    },
+    {
+        "key": "LAK",
+        "description": "Kip",
+        "decimals": 2
+    },
+    {
+        "key": "LBP",
+        "description": "Libra libanesa",
+        "decimals": 2
+    },
+    {
+        "key": "LKR",
+        "description": "Rupia de Sri Lanka",
+        "decimals": 2
+    },
+    {
+        "key": "LRD",
+        "description": "Dólar liberiano",
+        "decimals": 2
+    },
+    {
+        "key": "LSL",
+        "description": "Loti",
+        "decimals": 2
+    },
+    {
+        "key": "LYD",
+        "description": "Dinar libio",
+        "decimals": 3
+    },
+    {
+        "key": "MAD",
+        "description": "Dirham marroquí",
+        "decimals": 2
+    },
+    {
+        "key": "MDL",
+        "description": "Leu moldavo",
+        "decimals": 2
+    },
+    {
+        "key": "MGA",
+        "description": "Ariary malgache",
+        "decimals": 2
+    },
+    {
+        "key": "MKD",
+        "description": "Denar",
+        "decimals": 2
+    },
+    {
+        "key": "MMK",
+        "description": "Kyat",
+        "decimals": 2
+    },
+    {
+        "key": "MNT",
+        "description": "Tugrik",
+        "decimals": 2
+    },
+    {
+        "key": "MOP",
+        "description": "Pataca",
+        "decimals": 2
+    },
+    {
+        "key": "MRO",
+        "description": "Ouguiya",
+        "decimals": 2
+    },
+    {
+        "key": "MUR",
+        "description": "Rupia de Mauricio",
+        "decimals": 2
+    },
+    {
+        "key": "MVR",
+        "description": "Rupia",
+        "decimals": 2
+    },
+    {
+        "key": "MWK",
+        "description": "Kwacha",
+        "decimals": 2
+    },
+    {
+        "key": "MXN",
+        "description": "Peso Mexicano",
+        "decimals": 2
+    },
+    {
+        "key": "MXV",
+        "description": "México Unidad de Inversión (UDI)",
+        "decimals": 2
+    },
+    {
+        "key": "MYR",
+        "description": "Ringgit malayo",
+        "decimals": 2
+    },
+    {
+        "key": "MZN",
+        "description": "Mozambique Metical",
+        "decimals": 2
+    },
+    {
+        "key": "NAD",
+        "description": "Dólar de Namibia",
+        "decimals": 2
+    },
+    {
+        "key": "NGN",
+        "description": "Naira",
+        "decimals": 2
+    },
+    {
+        "key": "NIO",
+        "description": "Córdoba Oro",
+        "decimals": 2
+    },
+    {
+        "key": "NOK",
+        "description": "Corona noruega",
+        "decimals": 2
+    },
+    {
+        "key": "NPR",
+        "description": "Rupia nepalí",
+        "decimals": 2
+    },
+    {
+        "key": "NZD",
+        "description": "Dólar de Nueva Zelanda",
+        "decimals": 2
+    },
+    {
+        "key": "OMR",
+        "description": "Rial omaní",
+        "decimals": 3
+    },
+    {
+        "key": "PAB",
+        "description": "Balboa",
+        "decimals": 2
+    },
+    {
+        "key": "PEN",
+        "description": "Nuevo Sol",
+        "decimals": 2
+    },
+    {
+        "key": "PGK",
+        "description": "Kina",
+        "decimals": 2
+    },
+    {
+        "key": "PHP",
+        "description": "Peso filipino",
+        "decimals": 2
+    },
+    {
+        "key": "PKR",
+        "description": "Rupia de Pakistán",
+        "decimals": 2
+    },
+    {
+        "key": "PLN",
+        "description": "Zloty",
+        "decimals": 2
+    },
+    {
+        "key": "PYG",
+        "description": "Guaraní",
+        "decimals": 0
+    },
+    {
+        "key": "QAR",
+        "description": "Qatar Rial",
+        "decimals": 2
+    },
+    {
+        "key": "RON",
+        "description": "Leu rumano",
+        "decimals": 2
+    },
+    {
+        "key": "RSD",
+        "description": "Dinar serbio",
+        "decimals": 2
+    },
+    {
+        "key": "RUB",
+        "description": "Rublo ruso",
+        "decimals": 2
+    },
+    {
+        "key": "RWF",
+        "description": "Franco ruandés",
+        "decimals": 0
+    },
+    {
+        "key": "SAR",
+        "description": "Riyal saudí",
+        "decimals": 2
+    },
+    {
+        "key": "SBD",
+        "description": "Dólar de las Islas Salomón",
+        "decimals": 2
+    },
+    {
+        "key": "SCR",
+        "description": "Rupia de Seychelles",
+        "decimals": 2
+    },
+    {
+        "key": "SDG",
+        "description": "Libra sudanesa",
+        "decimals": 2
+    },
+    {
+        "key": "SEK",
+        "description": "Corona sueca",
+        "decimals": 2
+    },
+    {
+        "key": "SGD",
+        "description": "Dólar De Singapur",
+        "decimals": 2
+    },
+    {
+        "key": "SHP",
+        "description": "Libra de Santa Helena",
+        "decimals": 2
+    },
+    {
+        "key": "SLL",
+        "description": "Leona",
+        "decimals": 2
+    },
+    {
+        "key": "SOS",
+        "description": "Chelín somalí",
+        "decimals": 2
+    },
+    {
+        "key": "SRD",
+        "description": "Dólar de Suriname",
+        "decimals": 2
+    },
+    {
+        "key": "SSP",
+        "description": "Libra sudanesa Sur",
+        "decimals": 2
+    },
+    {
+        "key": "STD",
+        "description": "Dobra",
+        "decimals": 2
+    },
+    {
+        "key": "SVC",
+        "description": "Colon El Salvador",
+        "decimals": 2
+    },
+    {
+        "key": "SYP",
+        "description": "Libra Siria",
+        "decimals": 2
+    },
+    {
+        "key": "SZL",
+        "description": "Lilangeni",
+        "decimals": 2
+    },
+    {
+        "key": "THB",
+        "description": "Baht",
+        "decimals": 2
+    },
+    {
+        "key": "TJS",
+        "description": "Somoni",
+        "decimals": 2
+    },
+    {
+        "key": "TMT",
+        "description": "Turkmenistán nuevo manat",
+        "decimals": 2
+    },
+    {
+        "key": "TND",
+        "description": "Dinar tunecino",
+        "decimals": 3
+    },
+    {
+        "key": "TOP",
+        "description": "Pa'anga",
+        "decimals": 2
+    },
+    {
+        "key": "TRY",
+        "description": "Lira turca",
+        "decimals": 2
+    },
+    {
+        "key": "TTD",
+        "description": "Dólar de Trinidad y Tobago",
+        "decimals": 2
+    },
+    {
+        "key": "TWD",
+        "description": "Nuevo dólar de Taiwán",
+        "decimals": 2
+    },
+    {
+        "key": "TZS",
+        "description": "Shilling tanzano",
+        "decimals": 2
+    },
+    {
+        "key": "UAH",
+        "description": "Hryvnia",
+        "decimals": 2
+    },
+    {
+        "key": "UGX",
+        "description": "Shilling de Uganda",
+        "decimals": 0
+    },
+    {
+        "key": "USD",
+        "description": "Dólar americano",
+        "decimals": 2
+    },
+    {
+        "key": "USN",
+        "description": "Dólar estadounidense (día siguiente)",
+        "decimals": 2
+    },
+    {
+        "key": "UYI",
+        "description": "Peso Uruguay en Unidades Indexadas (URUIURUI)",
+        "decimals": 0
+    },
+    {
+        "key": "UYU",
+        "description": "Peso Uruguayo",
+        "decimals": 2
+    },
+    {
+        "key": "UZS",
+        "description": "Uzbekistán Sum",
+        "decimals": 2
+    },
+    {
+        "key": "VEF",
+        "description": "Bolívar",
+        "decimals": 2
+    },
+    {
+        "key": "VND",
+        "description": "Dong",
+        "decimals": 0
+    },
+    {
+        "key": "VUV",
+        "description": "Vatu",
+        "decimals": 0
+    },
+    {
+        "key": "WST",
+        "description": "Tala",
+        "decimals": 2
+    },
+    {
+        "key": "XAF",
+        "description": "Franco CFA BEAC",
+        "decimals": 0
+    },
+    {
+        "key": "XAG",
+        "description": "Plata",
+        "decimals": 0
+    },
+    {
+        "key": "XAU",
+        "description": "Oro",
+        "decimals": 0
+    },
+    {
+        "key": "XBA",
+        "description": "Unidad de Mercados de Bonos Unidad Europea Composite (EURCO)",
+        "decimals": 0
+    },
+    {
+        "key": "XBB",
+        "description": "Unidad Monetaria de Bonos de Mercados Unidad Europea (UEM-6)",
+        "decimals": 0
+    },
+    {
+        "key": "XBC",
+        "description": "Mercados de Bonos Unidad Europea unidad de cuenta a 9 (UCE-9)",
+        "decimals": 0
+    },
+    {
+        "key": "XBD",
+        "description": "Mercados de Bonos Unidad Europea unidad de cuenta a 17 (UCE-17)",
+        "decimals": 0
+    },
+    {
+        "key": "XCD",
+        "description": "Dólar del Caribe Oriental",
+        "decimals": 2
+    },
+    {
+        "key": "XDR",
+        "description": "DEG (Derechos Especiales de Giro)",
+        "decimals": 0
+    },
+    {
+        "key": "XOF",
+        "description": "Franco CFA BCEAO",
+        "decimals": 0
+    },
+    {
+        "key": "XPD",
+        "description": "Paladio",
+        "decimals": 0
+    },
+    {
+        "key": "XPF",
+        "description": "Franco CFP",
+        "decimals": 0
+    },
+    {
+        "key": "XPT",
+        "description": "Platino",
+        "decimals": 0
+    },
+    {
+        "key": "XSU",
+        "description": "Sucre",
+        "decimals": 0
+    },
+    {
+        "key": "XTS",
+        "description": "Códigos reservados específicamente para propósitos de prueba",
+        "decimals": 0
+    },
+    {
+        "key": "XUA",
+        "description": "Unidad ADB de Cuenta",
+        "decimals": 0
+    },
+    {
+        "key": "XXX",
+        "description": "Los códigos asignados para las transacciones en que intervenga ninguna moneda",
+        "decimals": 0
+    },
+    {
+        "key": "YER",
+        "description": "Rial yemení",
+        "decimals": 2
+    },
+    {
+        "key": "ZAR",
+        "description": "Rand",
+        "decimals": 2
+    },
+    {
+        "key": "ZMW",
+        "description": "Kwacha zambiano",
+        "decimals": 2
+    },
+    {
+        "key": "ZWL",
+        "description": "Zimbabwe Dólar",
+        "decimals": 2
+    }
+]

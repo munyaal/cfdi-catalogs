@@ -1,0 +1,116 @@
+[
+    {
+        "key": "601",
+        "description": "General de Ley Personas Morales",
+        "physical": false,
+        "moral": true
+    },
+    {
+        "key": "603",
+        "description": "Personas Morales con Fines no Lucrativos",
+        "physical": false,
+        "moral": true
+    },
+    {
+        "key": "605",
+        "description": "Sueldos y Salarios e Ingresos Asimilados a Salarios",
+        "physical": true,
+        "moral": false
+    },
+    {
+        "key": "606",
+        "description": "Arrendamiento",
+        "physical": true,
+        "moral": false
+    },
+    {
+        "key": "607",
+        "description": "Régimen de Enajenación o Adquisición de Bienes",
+        "physical": true,
+        "moral": false
+    },
+    {
+        "key": "608",
+        "description": "Demás ingresos",
+        "physical": true,
+        "moral": false
+    },
+    {
+        "key": "610",
+        "description": "Residentes en el Extranjero sin Establecimiento Permanente en México",
+        "physical": true,
+        "moral": true
+    },
+    {
+        "key": "611",
+        "description": "Ingresos por Dividendos (socios y accionistas)",
+        "physical": true,
+        "moral": false
+    },
+    {
+        "key": "612",
+        "description": "Personas Físicas con Actividades Empresariales y Profesionales",
+        "physical": true,
+        "moral": false
+    },
+    {
+        "key": "614",
+        "description": "Ingresos por intereses",
+        "physical": true,
+        "moral": false
+    },
+    {
+        "key": "615",
+        "description": "Régimen de los ingresos por obtención de premios",
+        "physical": true,
+        "moral": false
+    },
+    {
+        "key": "616",
+        "description": "Sin obligaciones fiscales",
+        "physical": true,
+        "moral": false
+    },
+    {
+        "key": "620",
+        "description": "Sociedades Cooperativas de Producción que optan por diferir sus ingresos",
+        "physical": false,
+        "moral": true
+    },
+    {
+        "key": "621",
+        "description": "Incorporación Fiscal",
+        "physical": true,
+        "moral": false
+    },
+    {
+        "key": "622",
+        "description": "Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras",
+        "physical": false,
+        "moral": true
+    },
+    {
+        "key": "623",
+        "description": "Opcional para Grupos de Sociedades",
+        "physical": false,
+        "moral": true
+    },
+    {
+        "key": "624",
+        "description": "Coordinados",
+        "physical": false,
+        "moral": true
+    },
+    {
+        "key": "625",
+        "description": "Régimen de las Actividades Empresariales con ingresos a través de Plataformas Tecnológicas",
+        "physical": true,
+        "moral": false
+    },
+    {
+        "key": "626",
+        "description": "Régimen Simplificado de Confianza",
+        "physical": true,
+        "moral": true
+    }
+]

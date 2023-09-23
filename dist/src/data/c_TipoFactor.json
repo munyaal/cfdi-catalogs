@@ -1,0 +1,14 @@
+[
+    {
+        "key": "Tasa",
+        "description": "Tasa"
+    },
+    {
+        "key": "Cuota",
+        "description": "Cuota"
+    },
+    {
+        "key": "Exento",
+        "description": "Exento"
+    }
+]

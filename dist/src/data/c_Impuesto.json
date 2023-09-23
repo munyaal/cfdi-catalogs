@@ -1,0 +1,20 @@
+[
+    {
+        "key": "001",
+        "description": "ISR",
+        "retention": true,
+        "transfer": false
+    },
+    {
+        "key": "002",
+        "description": "IVA",
+        "retention": true,
+        "transfer": true
+    },
+    {
+        "key": "003",
+        "description": "IEPS",
+        "retention": true,
+        "transfer": true
+    }
+]
