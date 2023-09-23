@@ -34,7 +34,17 @@ export const catExportacion: ExportacionArray = exportacionJson.map(value => ({
 
 export const catFormaPago: FormaPagoArray = formaPagoJson.map(value => ({
     key: value.key,
-    description: value.description
+    description: value.description,
+    banked: value.banked,
+    transactionNumber: value.transactionNumber,
+    rfcPayerAccount: value.rfcPayerAccount,
+    payerAccount: value.payerAccount,
+    formatPayerAccount: value.formatPayerAccount,
+    rfcBeneficiaryAccount: value.rfcBeneficiaryAccount,
+    beneficiaryAccount: value.beneficiaryAccount,
+    formatBeneficiaryAccount: value.formatBeneficiaryAccount,
+    typePaymentChain: value.typePaymentChain,
+    namePayerBank: value.namePayerBank,
 }));
 
 export const catImpuesto: ImpuestoArray = impuestoJson.map(value => ({
@@ -57,7 +67,7 @@ export const catMetodoPago: MetodoPagoArray = metodoPagoJson.map(value => ({
 export const catMoneda: MonedaArray = monedaJson.map(value => ({
     key: value.key,
     description: value.description,
-    decimals: parseInt(value.decimals)
+    decimals: value.decimals
 }));
 
 export const catObjetoImp: ObjetoImpArray = objetoImpJson.map(value => ({
