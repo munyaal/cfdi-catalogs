@@ -1,0 +1,74 @@
+[
+    {
+        "key": "01",
+        "description": "Enero"
+    },
+    {
+        "key": "02",
+        "description": "Febrero"
+    },
+    {
+        "key": "03",
+        "description": "Marzo"
+    },
+    {
+        "key": "04",
+        "description": "Abril"
+    },
+    {
+        "key": "05",
+        "description": "Mayo"
+    },
+    {
+        "key": "06",
+        "description": "Junio"
+    },
+    {
+        "key": "07",
+        "description": "Julio"
+    },
+    {
+        "key": "08",
+        "description": "Agosto"
+    },
+    {
+        "key": "09",
+        "description": "Septiembre"
+    },
+    {
+        "key": "10",
+        "description": "Octubre"
+    },
+    {
+        "key": "11",
+        "description": "Noviembre"
+    },
+    {
+        "key": "12",
+        "description": "Diciembre"
+    },
+    {
+        "key": "13",
+        "description": "Enero-Febrero"
+    },
+    {
+        "key": "14",
+        "description": "Marzo-Abril"
+    },
+    {
+        "key": "15",
+        "description": "Mayo-Junio"
+    },
+    {
+        "key": "16",
+        "description": "Julio-Agosto"
+    },
+    {
+        "key": "17",
+        "description": "Septiembre-Octubre"
+    },
+    {
+        "key": "18",
+        "description": "Noviembre-Diciembre"
+    }
+]

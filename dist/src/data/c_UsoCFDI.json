@@ -1,0 +1,170 @@
+[
+    {
+        "key": "G01",
+        "description": "Adquisición de mercancías.",
+        "physical": true,
+        "moral": true,
+        "regimens": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625,626"
+    },
+    {
+        "key": "G02",
+        "description": "Devoluciones, descuentos o bonificaciones.",
+        "physical": true,
+        "moral": true,
+        "regimens": "601, 603, 606, 612, 616, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "key": "G03",
+        "description": "Gastos en general.",
+        "physical": true,
+        "moral": true,
+        "regimens": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "key": "I01",
+        "description": "Construcciones.",
+        "physical": true,
+        "moral": true,
+        "regimens": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "key": "I02",
+        "description": "Mobiliario y equipo de oficina por inversiones.",
+        "physical": true,
+        "moral": true,
+        "regimens": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "key": "I03",
+        "description": "Equipo de transporte.",
+        "physical": true,
+        "moral": true,
+        "regimens": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "key": "I04",
+        "description": "Equipo de computo y accesorios.",
+        "physical": true,
+        "moral": true,
+        "regimens": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "key": "I05",
+        "description": "Dados, troqueles, moldes, matrices y herramental.",
+        "physical": true,
+        "moral": true,
+        "regimens": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "key": "I06",
+        "description": "Comunicaciones telefónicas.",
+        "physical": true,
+        "moral": true,
+        "regimens": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "key": "I07",
+        "description": "Comunicaciones satelitales.",
+        "physical": true,
+        "moral": true,
+        "regimens": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "key": "I08",
+        "description": "Otra maquinaria y equipo.",
+        "physical": true,
+        "moral": true,
+        "regimens": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "key": "D01",
+        "description": "Honorarios médicos, dentales y gastos hospitalarios.",
+        "physical": true,
+        "moral": false,
+        "regimens": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "key": "D02",
+        "description": "Gastos médicos por incapacidad o discapacidad.",
+        "physical": true,
+        "moral": false,
+        "regimens": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "key": "D03",
+        "description": "Gastos funerales.",
+        "physical": true,
+        "moral": false,
+        "regimens": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "key": "D04",
+        "description": "Donativos.",
+        "physical": true,
+        "moral": false,
+        "regimens": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "key": "D05",
+        "description": "Intereses reales efectivamente pagados por créditos hipotecarios (casa habitación).",
+        "physical": true,
+        "moral": false,
+        "regimens": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "key": "D06",
+        "description": "Aportaciones voluntarias al SAR.",
+        "physical": true,
+        "moral": false,
+        "regimens": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "key": "D07",
+        "description": "Primas por seguros de gastos médicos.",
+        "physical": true,
+        "moral": false,
+        "regimens": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "key": "D08",
+        "description": "Gastos de transportación escolar obligatoria.",
+        "physical": true,
+        "moral": false,
+        "regimens": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "key": "D09",
+        "description": "Depósitos en cuentas para el ahorro, primas que tengan como base planes de pensiones.",
+        "physical": true,
+        "moral": false,
+        "regimens": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "key": "D10",
+        "description": "Pagos por servicios educativos (colegiaturas).",
+        "physical": true,
+        "moral": false,
+        "regimens": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "key": "S01",
+        "description": "Sin efectos fiscales.",
+        "physical": true,
+        "moral": true,
+        "regimens": "601, 603, 605, 606, 608, 610, 611, 612, 614, 616, 620, 621, 622, 623, 624, 607, 615, 625, 626"
+    },
+    {
+        "key": "CP01",
+        "description": "Pagos",
+        "physical": true,
+        "moral": true,
+        "regimens": "601, 603, 605, 606, 608, 610, 611, 612, 614, 616, 620, 621, 622, 623, 624, 607, 615, 625, 626"
+    },
+    {
+        "key": "CN01",
+        "description": "Nómina",
+        "physical": true,
+        "moral": false,
+        "regimens": "605"
+    }
+]

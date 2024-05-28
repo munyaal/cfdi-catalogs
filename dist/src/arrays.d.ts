@@ -1,0 +1,14 @@
+import { ExportacionArray, FormaPagoArray, ImpuestoArray, MesesArray, MetodoPagoArray, MonedaArray, ObjetoImpArray, PeriodicidadArray, RegimenFiscalArray, TipoDeComprobanteArray, TipoFactorArray, TipoRelacionArray, UsoCFDIArray } from "./types";
+export declare const catExportacion: ExportacionArray;
+export declare const catFormaPago: FormaPagoArray;
+export declare const catImpuesto: ImpuestoArray;
+export declare const catMeses: MesesArray;
+export declare const catMetodoPago: MetodoPagoArray;
+export declare const catMoneda: MonedaArray;
+export declare const catObjetoImp: ObjetoImpArray;
+export declare const catPeriodicidad: PeriodicidadArray;
+export declare const catRegimenFiscal: RegimenFiscalArray;
+export declare const catTipoDeComprobante: TipoDeComprobanteArray;
+export declare const catTipoFactor: TipoFactorArray;
+export declare const catTipoRelacion: TipoRelacionArray;
+export declare const catUsoCFDI: UsoCFDIArray;

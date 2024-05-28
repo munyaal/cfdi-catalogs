@@ -11,7 +11,7 @@
     "description": "Devoluciones, descuentos o bonificaciones.",
     "physical": true,
     "moral": true,
-    "regimens": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625,626"
+    "regimens": "601, 603, 606, 612, 616, 620, 621, 622, 623, 624, 625, 626"
   },
   {
     "key": "G03",
@@ -148,7 +148,7 @@
   },
   {
     "key": "S01",
-    "description": "Sin efectos fiscales.  ",
+    "description": "Sin efectos fiscales.",
     "physical": true,
     "moral": true,
     "regimens": "601, 603, 605, 606, 608, 610, 611, 612, 614, 616, 620, 621, 622, 623, 624, 607, 615, 625, 626"

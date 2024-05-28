@@ -1,90 +1,310 @@
 [
   {
     "key": "01",
-    "description": "Efectivo"
+    "description": "Efectivo",
+    "banked": "No",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "No",
+    "payerAccount": "No",
+    "formatPayerAccount": "No",
+    "rfcBeneficiaryAccount": "No",
+    "beneficiaryAccount": "No",
+    "formatBeneficiaryAccount": "No",
+    "typePaymentChain": "No",
+    "namePayerBank": "No"
   },
   {
     "key": "02",
-    "description": "Cheque nominativo"
+    "description": "Cheque nominativo",
+    "banked": "Si",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "Opcional",
+    "payerAccount": "Opcional",
+    "formatPayerAccount": "[0-9]{11}|[0-9]{18}",
+    "rfcBeneficiaryAccount": "Opcional",
+    "beneficiaryAccount": "Opcional",
+    "formatBeneficiaryAccount": "[0-9]{10,11}|[0-9]{15,16}|[0-9]{18}|[A-Z0-9_]{10,50}",
+    "typePaymentChain": "No",
+    "namePayerBank": "Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio."
   },
   {
     "key": "03",
-    "description": "Transferencia electrónica de fondos"
+    "description": "Transferencia electrónica de fondos",
+    "banked": "Si",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "Opcional",
+    "payerAccount": "Opcional",
+    "formatPayerAccount": "[0-9]{10}|[0-9]{16}|[0-9]{18}",
+    "rfcBeneficiaryAccount": "Opcional",
+    "beneficiaryAccount": "Opcional",
+    "formatBeneficiaryAccount": "[0-9]{10}|[0-9]{18}",
+    "typePaymentChain": "Opcional",
+    "namePayerBank": "Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio."
   },
   {
     "key": "04",
-    "description": "Tarjeta de crédito"
+    "description": "Tarjeta de crédito",
+    "banked": "Si",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "Opcional",
+    "payerAccount": "Opcional",
+    "formatPayerAccount": "[0-9]{16}",
+    "rfcBeneficiaryAccount": "Opcional",
+    "beneficiaryAccount": "Opcional",
+    "formatBeneficiaryAccount": "[0-9]{10,11}|[0-9]{15,16}|[0-9]{18}|[A-Z0-9_]{10,50}",
+    "typePaymentChain": "No",
+    "namePayerBank": "Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio."
   },
   {
     "key": "05",
-    "description": "Monedero electrónico"
+    "description": "Monedero electrónico",
+    "banked": "Si",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "Opcional",
+    "payerAccount": "Opcional",
+    "formatPayerAccount": "[0-9]{10,11}|[0-9]{15,16}|[0-9]{18}|[A-Z0-9_]{10,50}",
+    "rfcBeneficiaryAccount": "Opcional",
+    "beneficiaryAccount": "Opcional",
+    "formatBeneficiaryAccount": "[0-9]{10,11}|[0-9]{15,16}|[0-9]{18}|[A-Z0-9_]{10,50}",
+    "typePaymentChain": "No",
+    "namePayerBank": "No"
   },
   {
     "key": "06",
-    "description": "Dinero electrónico"
+    "description": "Dinero electrónico",
+    "banked": "Si",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "Opcional",
+    "payerAccount": "Opcional",
+    "formatPayerAccount": "[0-9]{10}",
+    "rfcBeneficiaryAccount": "No",
+    "beneficiaryAccount": "No",
+    "formatBeneficiaryAccount": "No",
+    "typePaymentChain": "No",
+    "namePayerBank": "No"
   },
   {
     "key": "08",
-    "description": "Vales de despensa"
+    "description": "Vales de despensa",
+    "banked": "No",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "No",
+    "payerAccount": "No",
+    "formatPayerAccount": "No",
+    "rfcBeneficiaryAccount": "No",
+    "beneficiaryAccount": "No",
+    "formatBeneficiaryAccount": "No",
+    "typePaymentChain": "No",
+    "namePayerBank": "No"
   },
   {
     "key": "12",
-    "description": "Dación en pago"
+    "description": "Dación en pago",
+    "banked": "No",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "No",
+    "payerAccount": "No",
+    "formatPayerAccount": "No",
+    "rfcBeneficiaryAccount": "No",
+    "beneficiaryAccount": "No",
+    "formatBeneficiaryAccount": "No",
+    "typePaymentChain": "No",
+    "namePayerBank": "No"
   },
   {
     "key": "13",
-    "description": "Pago por subrogación"
+    "description": "Pago por subrogación",
+    "banked": "No",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "No",
+    "payerAccount": "No",
+    "formatPayerAccount": "No",
+    "rfcBeneficiaryAccount": "No",
+    "beneficiaryAccount": "No",
+    "formatBeneficiaryAccount": "No",
+    "typePaymentChain": "No",
+    "namePayerBank": "No"
   },
   {
     "key": "14",
-    "description": "Pago por consignación"
+    "description": "Pago por consignación",
+    "banked": "No",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "No",
+    "payerAccount": "No",
+    "formatPayerAccount": "No",
+    "rfcBeneficiaryAccount": "No",
+    "beneficiaryAccount": "No",
+    "formatBeneficiaryAccount": "No",
+    "typePaymentChain": "No",
+    "namePayerBank": "No"
   },
   {
     "key": "15",
-    "description": "Condonación"
+    "description": "Condonación",
+    "banked": "No",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "No",
+    "payerAccount": "No",
+    "formatPayerAccount": "No",
+    "rfcBeneficiaryAccount": "No",
+    "beneficiaryAccount": "No",
+    "formatBeneficiaryAccount": "No",
+    "typePaymentChain": "No",
+    "namePayerBank": "No"
   },
   {
     "key": "17",
-    "description": "Compensación"
+    "description": "Compensación",
+    "banked": "No",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "No",
+    "payerAccount": "No",
+    "formatPayerAccount": "No",
+    "rfcBeneficiaryAccount": "No",
+    "beneficiaryAccount": "No",
+    "formatBeneficiaryAccount": "No",
+    "typePaymentChain": "No",
+    "namePayerBank": "No"
   },
   {
     "key": "23",
-    "description": "Novación"
+    "description": "Novación",
+    "banked": "No",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "No",
+    "payerAccount": "No",
+    "formatPayerAccount": "No",
+    "rfcBeneficiaryAccount": "No",
+    "beneficiaryAccount": "No",
+    "formatBeneficiaryAccount": "No",
+    "typePaymentChain": "No",
+    "namePayerBank": "No"
   },
   {
     "key": "24",
-    "description": "Confusión"
+    "description": "Confusión",
+    "banked": "No",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "No",
+    "payerAccount": "No",
+    "formatPayerAccount": "No",
+    "rfcBeneficiaryAccount": "No",
+    "beneficiaryAccount": "No",
+    "formatBeneficiaryAccount": "No",
+    "typePaymentChain": "No",
+    "namePayerBank": "No"
   },
   {
     "key": "25",
-    "description": "Remisión de deuda"
+    "description": "Remisión de deuda",
+    "banked": "No",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "No",
+    "payerAccount": "No",
+    "formatPayerAccount": "No",
+    "rfcBeneficiaryAccount": "No",
+    "beneficiaryAccount": "No",
+    "formatBeneficiaryAccount": "No",
+    "typePaymentChain": "No",
+    "namePayerBank": "No"
   },
   {
     "key": "26",
-    "description": "Prescripción o caducidad"
+    "description": "Prescripción o caducidad",
+    "banked": "No",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "No",
+    "payerAccount": "No",
+    "formatPayerAccount": "No",
+    "rfcBeneficiaryAccount": "No",
+    "beneficiaryAccount": "No",
+    "formatBeneficiaryAccount": "No",
+    "typePaymentChain": "No",
+    "namePayerBank": "No"
   },
   {
     "key": "27",
-    "description": "A satisfacción del acreedor"
+    "description": "A satisfacción del acreedor",
+    "banked": "No",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "No",
+    "payerAccount": "No",
+    "formatPayerAccount": "No",
+    "rfcBeneficiaryAccount": "No",
+    "beneficiaryAccount": "No",
+    "formatBeneficiaryAccount": "No",
+    "typePaymentChain": "No",
+    "namePayerBank": "No"
   },
   {
     "key": "28",
-    "description": "Tarjeta de débito"
+    "description": "Tarjeta de débito",
+    "banked": "Si",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "Opcional",
+    "payerAccount": "Opcional",
+    "formatPayerAccount": "[0-9]{16}",
+    "rfcBeneficiaryAccount": "Opcional",
+    "beneficiaryAccount": "Opcional",
+    "formatBeneficiaryAccount": "[0-9]{10,11}|[0-9]{15,16}|[0-9]{18}|[A-Z0-9_]{10,50}",
+    "typePaymentChain": "No",
+    "namePayerBank": "Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio."
   },
   {
     "key": "29",
-    "description": "Tarjeta de servicios"
+    "description": "Tarjeta de servicios",
+    "banked": "Si",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "Opcional",
+    "payerAccount": "Opcional",
+    "formatPayerAccount": "[0-9]{15,16}",
+    "rfcBeneficiaryAccount": "Opcional",
+    "beneficiaryAccount": "Opcional",
+    "formatBeneficiaryAccount": "[0-9]{10,11}|[0-9]{15,16}|[0-9]{18}|[A-Z0-9_]{10,50}",
+    "typePaymentChain": "No",
+    "namePayerBank": "Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio."
   },
   {
     "key": "30",
-    "description": "Aplicación de anticipos"
+    "description": "Aplicación de anticipos",
+    "banked": "No",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "No",
+    "payerAccount": "No",
+    "formatPayerAccount": "No",
+    "rfcBeneficiaryAccount": "No",
+    "beneficiaryAccount": "No",
+    "formatBeneficiaryAccount": "No",
+    "typePaymentChain": "No",
+    "namePayerBank": "No"
   },
   {
     "key": "31",
-    "description": "Intermediario pagos"
+    "description": "Intermediario pagos",
+    "banked": "No",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "No",
+    "payerAccount": "No",
+    "formatPayerAccount": "No",
+    "rfcBeneficiaryAccount": "No",
+    "beneficiaryAccount": "No",
+    "formatBeneficiaryAccount": "No",
+    "typePaymentChain": "No",
+    "namePayerBank": "No"
   },
   {
     "key": "99",
-    "description": "Por definir"
+    "description": "Por definir",
+    "banked": "Opcional",
+    "transactionNumber": "Opcional",
+    "rfcPayerAccount": "Opcional",
+    "payerAccount": "Opcional",
+    "formatPayerAccount": "Opcional",
+    "rfcBeneficiaryAccount": "Opcional",
+    "beneficiaryAccount": "Opcional",
+    "formatBeneficiaryAccount": "Opcional",
+    "typePaymentChain": "Opcional",
+    "namePayerBank": "Opcional"
   }
 ]

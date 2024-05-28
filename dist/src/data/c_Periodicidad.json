@@ -1,0 +1,22 @@
+[
+    {
+        "key": "01",
+        "description": "Diario"
+    },
+    {
+        "key": "02",
+        "description": "Semanal"
+    },
+    {
+        "key": "03",
+        "description": "Quincenal"
+    },
+    {
+        "key": "04",
+        "description": "Mensual"
+    },
+    {
+        "key": "05",
+        "description": "Bimestral"
+    }
+]

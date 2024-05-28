@@ -4,7 +4,18 @@ export type ExportacionOption = Option;
 
 export type ExportacionArray = ExportacionOption[];
 
-export type FormaPagoOption = Option;
+export type FormaPagoOption = Option & {
+    banked: string;
+    transactionNumber: string;
+    rfcPayerAccount: string;
+    payerAccount: string;
+    formatPayerAccount: string;
+    rfcBeneficiaryAccount: string;
+    beneficiaryAccount: string;
+    formatBeneficiaryAccount: string;
+    typePaymentChain: string;
+    namePayerBank: string;
+};
 
 export type FormaPagoArray = FormaPagoOption[];
 

@@ -1,0 +1,18 @@
+[
+    {
+        "key": "01",
+        "description": "No aplica"
+    },
+    {
+        "key": "02",
+        "description": "Definitiva con clave A1"
+    },
+    {
+        "key": "03",
+        "description": "Temporal"
+    },
+    {
+        "key": "04",
+        "description": "Definitiva con clave distinta a A1 o cuando no existe enajenación en términos del CFF"
+    }
+]
